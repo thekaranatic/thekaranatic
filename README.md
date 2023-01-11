@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/karanpk)](https://peerlist.io/karanpk)
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/karanpk?style=plastic)](https://peerlist.io/karanpk)
