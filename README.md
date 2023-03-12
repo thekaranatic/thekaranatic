@@ -6,7 +6,7 @@ An undergrad of CSE (Class of 2025). I look forward to showcase & increase my *t
 
 Pronouns: He/Him
 
-I am also enthusiastic about Product Development
+I am enthusiastic about Product Development
 
 'thekaranatic' is my pseudoname.
 
