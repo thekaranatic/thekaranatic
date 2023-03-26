@@ -10,6 +10,7 @@ I am enthusiastic about Product Development
 
 'thekaranatic' is my pseudoname.
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/karanpk?style=for-the-badge)](https://peerlist.io/karanpk)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,4 +22,4 @@ I am enthusiastic about Product Development
 - ⚡ Fun fact: ... -->
 
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/karanpk?style=social)](https://peerlist.io/karanpk)
+
