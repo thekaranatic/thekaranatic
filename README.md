@@ -21,4 +21,4 @@ I am enthusiastic about Product Development
 - ⚡ Fun fact: ... -->
 
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/karanpk)](https://peerlist.io/karanpk)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/karanpk?style=social)](https://peerlist.io/karanpk)
