@@ -2,7 +2,7 @@
 <!--
 **thekaranatic/thekaranatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-An undergrad of CSE (Class of 2025). I look forward to showcase & increase my *tinkering* nature and also highlight my learnings through GitHub. My next goal is to make myself prepared for collaborating with people better than me at what I do. I can be reached through Email, Twitter & Linkedin. Links here --> [LinkTree](www.linktr.ee/thekaranatic).
+An undergrad of CSE (Class of 2025). I look forward to showcase & increase my *tinkering* nature and also highlight my learnings through GitHub. My next goal is to make myself prepared for collaborating with people better than me at what I do. I can be reached through Email, Twitter & Linkedin. Links here --> [LinkTree](https://linktr.ee/thekaranatic).
 
 Pronouns: He/Him
 
