@@ -6,8 +6,6 @@ An undergrad of CSE (Class of 2025). I look forward to showcase & increase my *t
 
 Pronouns: He/Him
 
-I am enthusiastic about Product Development
-
 'thekaranatic' is my pseudoname.
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/karanpk?style=for-the-badge)](https://peerlist.io/karanpk)
