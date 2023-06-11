@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/bf88ca6a-7335-436d-bf81-82f32bc434c2.svg)](https://wakatime.com/@bf88ca6a-7335-436d-bf81-82f32bc434c2)
-
 ### Hi there, I'm Karan 👋
 <!--
 **thekaranatic/thekaranatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
