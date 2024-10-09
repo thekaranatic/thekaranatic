@@ -19,5 +19,5 @@ Pronouns: He/Him
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Karan Kakati profile views](https://u8views.com/api/v1/github/profiles/76730847/views/day-week-month-total-count.svg)](https://u8views.com/github/thekaranatic)
+ <!-- [![Karan Kakati profile views](https://u8views.com/api/v1/github/profiles/76730847/views/day-week-month-total-count.svg)](https://u8views.com/github/thekaranatic) -->
 
